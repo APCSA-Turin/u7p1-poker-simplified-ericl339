@@ -67,7 +67,7 @@ public class Player{
         // if this is true, set outcome to four of a kind
         if (fourOfAKind()) {
             outcome = "Four of a Kind";
-        }]
+        }
         // if this is true, set outcome to straight flush
         if (straightFlush()) {
             outcome = "Straight Flush";
